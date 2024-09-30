@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Banking App\bin\Debug\net5.0\Banking App.exe
+C:\Users\HP\Desktop\Banking App\bin\Debug\net5.0\Banking App.deps.json
+C:\Users\HP\Desktop\Banking App\bin\Debug\net5.0\Banking App.runtimeconfig.json
+C:\Users\HP\Desktop\Banking App\bin\Debug\net5.0\Banking App.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Banking App\bin\Debug\net5.0\Banking App.dll
+C:\Users\HP\Desktop\Banking App\bin\Debug\net5.0\Banking App.pdb
+C:\Users\HP\Desktop\Banking App\obj\Debug\net5.0\Banking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Banking App\obj\Debug\net5.0\Banking App.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Banking App\obj\Debug\net5.0\Banking App.AssemblyInfo.cs
+C:\Users\HP\Desktop\Banking App\obj\Debug\net5.0\Banking App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Banking App\obj\Debug\net5.0\Banking App.dll
+C:\Users\HP\Desktop\Banking App\obj\Debug\net5.0\refint\Banking App.dll
+C:\Users\HP\Desktop\Banking App\obj\Debug\net5.0\Banking App.pdb
+C:\Users\HP\Desktop\Banking App\obj\Debug\net5.0\Banking App.genruntimeconfig.cache
+C:\Users\HP\Desktop\Banking App\obj\Debug\net5.0\ref\Banking App.dll
